@@ -1,0 +1,2 @@
+# midnightcord
+a discord theme
